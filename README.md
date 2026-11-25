@@ -23,7 +23,7 @@ Os links sempre baixam a versão mais nova. Os links antigos, com o nome Zarpa, 
 3. O Windows vai pedir a sua autorização: na tela azul, clique em "Mais informações" e depois em "Executar assim mesmo".
 4. Pronto: a Zuri instala sozinha e abre.
 
-**Mac** ([vídeo de 1 minuto mostrando cada passo](https://app.agente-de-turismo-veltrix.com.br/videos/como-instalar-zarpa-mac.mp4))
+**Mac** ([vídeo de 1 minuto mostrando cada passo](https://app.agente-de-turismo-veltrix.com.br/videos/como-instalar-zuri-mac.mp4))
 
 1. Abra o arquivo baixado e arraste a Zuri para a pasta Aplicativos.
 2. Abra a Zuri. O Mac vai pedir a sua autorização: clique em "OK" (não em "Mover para o Lixo").
