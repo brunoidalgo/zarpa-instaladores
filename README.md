@@ -23,11 +23,11 @@ Os links sempre baixam a versão mais nova. Os outros arquivos da [página de ve
 3. O Windows vai pedir a sua autorização: na tela azul, clique em "Mais informações" e depois em "Executar assim mesmo".
 4. Pronto: a Zarpa instala sozinha e abre.
 
-**Mac**
+**Mac** ([vídeo de 1 minuto mostrando cada passo](https://app.agente-de-turismo-veltrix.com.br/videos/como-instalar-zarpa-mac.mp4))
 
 1. Abra o arquivo baixado e arraste a Zarpa para a pasta Aplicativos.
-2. Abra a Zarpa. O Mac vai pedir a sua autorização: clique em "Concluído" (não em "Mover para o Lixo").
-3. Vá em Ajustes do Sistema → Privacidade e Segurança, role até o fim e clique em "Abrir Mesmo Assim". Confirme com a senha do Mac.
+2. Abra a Zarpa. O Mac vai pedir a sua autorização: clique em "OK" (não em "Mover para o Lixo").
+3. Vá em Ajustes do Sistema → Privacidade e Segurança, role até "Segurança" e clique em "Abrir Mesmo Assim". Se aparecer outra janela, clique de novo em "Abrir Mesmo Assim" e confirme com a senha do Mac.
 4. Pronto: das próximas vezes ela abre direto.
 
 ## Atualizações
