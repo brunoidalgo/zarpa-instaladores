@@ -23,18 +23,18 @@ Os links sempre baixam a versão mais nova. Os links antigos, com o nome Zarpa, 
 3. O Windows vai pedir a sua autorização: na tela azul, clique em "Mais informações" e depois em "Executar assim mesmo".
 4. Pronto: a Zuri instala sozinha e abre.
 
-**Mac** ([vídeo de 1 minuto mostrando cada passo](https://app.agente-de-turismo-veltrix.com.br/videos/como-instalar-zuri-mac.mp4))
+**Mac**
 
 1. Abra o arquivo baixado e arraste a Zuri para a pasta Aplicativos.
-2. Abra a Zuri. O Mac vai pedir a sua autorização: clique em "OK" (não em "Mover para o Lixo").
-3. Vá em Ajustes do Sistema → Privacidade e Segurança, role até "Segurança" e clique em "Abrir Mesmo Assim". Se aparecer outra janela, clique de novo em "Abrir Mesmo Assim" e confirme com a senha do Mac.
-4. Pronto: das próximas vezes ela abre direto.
+2. Abra a Zuri. O Mac pergunta se você quer abrir um app baixado da internet: clique em "Abrir".
+3. Pronto: das próximas vezes ela abre direto.
 
 ## Atualizações
 
 - **Novidades do painel:** chegam sozinhas.
 - **Programa no Windows:** a versão nova baixa sozinha. Aparece o botão "Atualizar" no alto da janela, e ela entra quando você fechar o app.
-- **Programa no Mac:** aparece o botão "Atualizar" no alto da janela. Ele abre o download da versão nova. Feche o app (Cmd+Q), abra o arquivo baixado e arraste a Zuri para Aplicativos. Na primeira vez que abrir a versão nova, o Mac pede a autorização de novo (passos 2 e 3 acima).
+- **Programa no Mac (versão 1.2.0 em diante):** igual ao Windows. A versão nova baixa sozinha, aparece o botão "Atualizar" no alto da janela, e ela entra quando você fechar o app.
+- **Mac com a versão 1.1.0 ou anterior:** a troca para a 1.2.0 é à mão, uma última vez. O botão "Atualizar" abre o download. Feche o app (Cmd+Q), abra o arquivo baixado, arraste a Zuri para Aplicativos e escolha "Substituir". Ao abrir, clique em "Abrir".
 
 ## De Zarpa para Zuri
 
